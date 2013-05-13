@@ -7,7 +7,8 @@ gem 'rails', '3.2.8'
 
 # gem 'sqlite3'
 gem 'squeel'
-gem 'pg'
+#gem 'pg'
+gem 'sqlite3'
 
 
 # Gems used only for assets and not required
